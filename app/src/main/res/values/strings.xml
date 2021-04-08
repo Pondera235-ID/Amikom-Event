@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">amikomevent</string>
+    <string name="txt_nim">NIM</string>
+    <string name="txt_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="txtBtnLogin">Login</string>
+    <string name="txt_sign_admin">Sign In As Admin ?</string>
+    <string name="txt_sign_user">Sign In As User ?</string>
+    <array name="myImages">
+        <item>@drawable/background</item>
+        <item>@drawable/background2</item>
+        <item>@drawable/background3</item>
+        <item>@drawable/background4</item>
+    </array>
+</resources>
